@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Colégio Estadual Dr. EDUARDO VIRMOND SUPLICY</title>
+</head>
+    <body>
+        <header>
+        <div class="principal">
+        <h1>COLÉGIO ESTADUAL Dr. EDUARDO VIRMOND SUPLICY</h1>    
+            <ul>
+                <li>HISTÓRIA</li>
+                <li>ALUNOS</li>
+            </ul>
+        </header>    
+        </div>
+    </body>
+</html>
+
+
+
+
+
+
+
+ CSS
+header{
+    background-color: #424E61;
+    color: white;
+}
+
+.principal{
+    text-align: center;
+}
