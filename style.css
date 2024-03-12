@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+    padding: 0 ;
+}
+
+header{
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.escola{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+
+.principal{
+    text-align: center;
+}
